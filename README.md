@@ -6,6 +6,8 @@ Aprendendo React, neste caso, aplicações do useState em um site. Página que g
 
 Projeto desenvolvido através do curso do John Smilga de React. Página no Netlify: https://lorem-learning-reactjs.netlify.app
 
+![image](https://user-images.githubusercontent.com/103163622/188519841-bf7fe66b-6799-4bd8-ba9d-335c47e50d6d.png)
+
 Installation and Setup Instructions Clone down this repository. You will need node and npm installed globally on your machine.
 
 Installation: npm install
